@@ -1,0 +1,19 @@
+.form-wrapper .form {
+
+    margin: 80px auto;
+    background-color: #f6f6f6;
+    max-width: 530px;
+    padding: 25px;
+    box-shadow: 0 3px 5px 0px rgba(0, 0, 0, .19);
+}
+
+
+.form-wrapper .form form {
+    padding-top: 15px;
+}
+
+.form-wrapper .form .waves-light {
+    margin-top: 45px;
+    display: block;
+    margin-left: auto;
+}
